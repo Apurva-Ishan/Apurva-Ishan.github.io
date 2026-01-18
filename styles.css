@@ -1,0 +1,37 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2.5px;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+#gothic {
+  background: #7498a4;
+}
+
+#parchment {
+  background: #f0e2d0;
+}
+#apricot {
+  background: #ea7b7b;
+}
+#sundance {
+  background: #c3af54;
+}
+#sapphire {
+  background: #334699
+}
